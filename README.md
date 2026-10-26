@@ -6,7 +6,7 @@
 <h1 align="center">F.Ter <code>@terenzif</code></h1>
 
 <p align="center">
-  Building focused tools — one public WIP, three more landing soon.
+  Building focused tools — two public WIPs, two more landing soon.
 </p>
 
 ---
@@ -41,11 +41,13 @@
       <p><strong>Private · soon</strong></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/ibis-assistant-social-preview.png" alt="Ibis Assistant — Living project memory" width="100%">
+      <a href="https://github.com/terenzif/ibis-assistant">
+        <img src="assets/ibis-assistant-social-preview.png" alt="Ibis Assistant — Living project memory" width="100%">
+      </a>
       <br>
-      <h3>Ibis Assistant</h3>
-      <p>Living project memory for AI agents — MCP knowledge over real repos.</p>
-      <p><strong>Private · soon</strong></p>
+      <h3><a href="https://github.com/terenzif/ibis-assistant">Ibis Assistant</a></h3>
+      <p>MCP knowledge graph for real codebases — living project memory on git, AST and logs.</p>
+      <p><strong>Public · WIP</strong></p>
     </td>
   </tr>
 </table>
@@ -53,5 +55,9 @@
 ---
 
 <p align="center">
-  <sub>Live now: <a href="https://github.com/terenzif/grindr-plus-plus">terenzif/grindr-plus-plus</a></sub>
+  <sub>Live now:
+    <a href="https://github.com/terenzif/grindr-plus-plus">terenzif/grindr-plus-plus</a>
+    ·
+    <a href="https://github.com/terenzif/ibis-assistant">terenzif/ibis-assistant</a>
+  </sub>
 </p>
