@@ -1,9 +1,9 @@
 <!--
-  GitHub profile README (terenzif/terenzif).
+  GitHub profile README (fatterdev/fatterdev).
   Portfolio of four projects with 16:9 brand graphics.
 -->
 
-<h1 align="center">F.Ter <code>@terenzif</code></h1>
+<h1 align="center">FaTTerDev <code>@fatterdev</code></h1>
 
 <p align="center">
   Building focused tools — two public WIPs, two more landing soon.
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/terenzif/grindr-plus-plus">
+      <a href="https://github.com/fatterdev/grindr-plus-plus">
         <img src="assets/grindr-plus-plus-og.jpg" alt="Grindr++ — take them all" width="100%">
       </a>
       <br>
-      <h3><a href="https://github.com/terenzif/grindr-plus-plus">Grindr++</a></h3>
+      <h3><a href="https://github.com/fatterdev/grindr-plus-plus">Grindr++</a></h3>
       <p><em>take them all</em> — Xposed / LSPosed module for Grindr.</p>
       <p><strong>Public · WIP</strong></p>
     </td>
@@ -41,11 +41,11 @@
       <p><strong>Private · soon</strong></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/terenzif/ibis-assistant">
+      <a href="https://github.com/fatterdev/ibis-assistant">
         <img src="assets/ibis-assistant-social-preview.png" alt="Ibis Assistant — Living project memory" width="100%">
       </a>
       <br>
-      <h3><a href="https://github.com/terenzif/ibis-assistant">Ibis Assistant</a></h3>
+      <h3><a href="https://github.com/fatterdev/ibis-assistant">Ibis Assistant</a></h3>
       <p>MCP knowledge graph for real codebases — living project memory on git, AST and logs.</p>
       <p><strong>Public · WIP</strong></p>
     </td>
@@ -56,8 +56,8 @@
 
 <p align="center">
   <sub>Live now:
-    <a href="https://github.com/terenzif/grindr-plus-plus">terenzif/grindr-plus-plus</a>
+    <a href="https://github.com/fatterdev/grindr-plus-plus">fatterdev/grindr-plus-plus</a>
     ·
-    <a href="https://github.com/terenzif/ibis-assistant">terenzif/ibis-assistant</a>
+    <a href="https://github.com/fatterdev/ibis-assistant">fatterdev/ibis-assistant</a>
   </sub>
 </p>
